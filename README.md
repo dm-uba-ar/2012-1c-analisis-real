@@ -1,9 +1,4 @@
-# Análisis Real - Medida y Probabilidad — Primer cuatrimestre de 2012
-
-## Equipo docente
-
-- **Clases teóricas:** Ariel Lombardi
-- **Clases prácticas:** Juan Miguel Medina, Tomás Ibarlucia
+# Análisis Real — Primer cuatrimestre de 2012
 
 ## Prácticas
 
@@ -18,7 +13,6 @@
 
 ## Apuntes y notas
 
-- [Un conjunto de Vitali contenido en \[0,1\] y de medida exterior 1](articulo1.pdf)
 - [La paradoja de Banach-Tarski](articulo2.pdf)
 - [The Fundamental Theorem of Calculus for Lebesgue Integral](articulo3.pdf)
 
